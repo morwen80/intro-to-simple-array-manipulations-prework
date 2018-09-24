@@ -31,5 +31,6 @@ def using_insert(arr, elem)
 end
 
 def using_uniq(arr)
-  
+  return arr.uniq
 end
+

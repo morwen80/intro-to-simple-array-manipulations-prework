@@ -30,3 +30,6 @@ def using_insert(arr, elem)
   arr.insert(4, elem)
 end
 
+def using_uniq(arr)
+  
+end

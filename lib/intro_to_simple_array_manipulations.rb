@@ -23,5 +23,6 @@ def shift_with_args(arr)
 end 
 
 def using_concat(arr1, arr2)
-  return a
+  return arr1.concat arr2
 end
+
